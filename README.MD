@@ -1,5 +1,6 @@
 #Number Analyzer CLI Tool
-A python command-line tool that analyzes numbers from a text file and generates a report
+A python command-line utility that reads numbers from a text file,
+performs statistical analysis,and generates a formatted report
 ##Features
 -Calculates total
 -Counts numbers
