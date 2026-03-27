@@ -1,5 +1,6 @@
 #Number Analyzer CLI Tool
 A python command-line utility that reads numbers from a text file,
+------->>>> Practicing git PULL
 performs statistical analysis,and generates a formatted report
 ##Features
 -Counts numbers,Finds largest values,Computes average,Optional Verbose output,Custom report filename
